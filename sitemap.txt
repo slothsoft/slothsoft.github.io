@@ -1,0 +1,3 @@
+https://slothsoft.github.io/project/hello-world/
+https://slothsoft.github.io/project/about/index.html
+https://slothsoft.github.io/project
