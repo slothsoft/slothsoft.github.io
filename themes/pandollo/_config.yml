@@ -1,0 +1,11 @@
+#theme settings
+menu:
+    Home: /    
+    Archive: /archives/
+    About: /about
+    GitHub: https://github.com/slothsoft
+
+favicon: /images/favicon.png
+
+# syntax highlight
+syntax_highlight: darkula
