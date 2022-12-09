@@ -51,6 +51,5 @@ https://slothsoft.github.io/tags/stardew-valley/
 https://slothsoft.github.io/tags/scrap-mechanic/
 https://slothsoft.github.io/categories/General/
 https://slothsoft.github.io/categories/Spring-Cleaning/
-https://slothsoft.github.io/categories/General/Spring-Cleaning/
 https://slothsoft.github.io/categories/PHP-Maven/
 https://slothsoft.github.io/categories/Mods/

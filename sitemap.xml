@@ -421,13 +421,6 @@
   </url>
   
   <url>
-    <loc>https://slothsoft.github.io/categories/General/Spring-Cleaning/</loc>
-    <lastmod>2022-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://slothsoft.github.io/categories/PHP-Maven/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>weekly</changefreq>
