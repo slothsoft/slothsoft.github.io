@@ -23,5 +23,4 @@ hexo new post <2023-01-30>
 
 ## TODO
 
-- About pages
 - localize "prev_post" and "next_post"

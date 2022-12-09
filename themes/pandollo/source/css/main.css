@@ -654,7 +654,7 @@ img {
 }
 
 .article__title {
-    color: #2BF541;
+    color: #75FFA7;
     font-size: 20px;
     margin-bottom: 20px
 }
@@ -821,7 +821,7 @@ img {
 
 .archive__list__item__link {
     border-bottom: 2px solid transparent;
-    color: #2BF541;
+    color: #75FFA7;
     margin-left: 20px
 }
 
