@@ -3,11 +3,11 @@
   <title>Slothsoft</title>
   
   
-  <link href="https://slothsoft.github.io/project/atom.xml" rel="self"/>
+  <link href="https://slothsoft.github.io/atom.xml" rel="self"/>
   
-  <link href="https://slothsoft.github.io/project/"/>
-  <updated>2022-12-09T11:21:00.965Z</updated>
-  <id>https://slothsoft.github.io/project/</id>
+  <link href="https://slothsoft.github.io/"/>
+  <updated>2022-12-09T12:01:09.802Z</updated>
+  <id>https://slothsoft.github.io/</id>
   
   <author>
     <name>Stef Schulz</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Advent of Code 2022</title>
-    <link href="https://slothsoft.github.io/project/2022-12-01/"/>
-    <id>https://slothsoft.github.io/project/2022-12-01/</id>
+    <link href="https://slothsoft.github.io/2022-12-01/"/>
+    <id>https://slothsoft.github.io/2022-12-01/</id>
     <published>2022-12-08T19:40:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>My colleagues have their own leaderboard for the <a href="https://adventofcode.com/">Advent of Code</a>. That’s how I learned of this code challenge, and this year I want to be part of it. Not competitive, but just for fun.</p>]]></content>
     
@@ -33,19 +33,19 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="challenge" scheme="https://slothsoft.github.io/project/tags/challenge/"/>
+    <category term="challenge" scheme="https://slothsoft.github.io/tags/challenge/"/>
     
   </entry>
   
   <entry>
     <title>Stardew Valley Informant</title>
-    <link href="https://slothsoft.github.io/project/2022-10-30/"/>
-    <id>https://slothsoft.github.io/project/2022-10-30/</id>
+    <link href="https://slothsoft.github.io/2022-10-30/"/>
+    <id>https://slothsoft.github.io/2022-10-30/</id>
     <published>2022-12-08T18:33:17.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>I’m currently playing way too much Stardew Valley, with way too many different people. So of course I’ve yet again started another mod. And this time, it’s actually good: </p><span id="more"></span><ul><li><a href="https://www.nexusmods.com/stardewvalley/mods/14293">NexusMod</a></li><li><a href="https://github.com/slothsoft/stardew-informant">GitHub</a></li></ul><p>The mod provides a lot of additional information, that you as a player can’t access easily.</p>]]></content>
     
@@ -54,21 +54,21 @@
     
     
     
-    <category term="Mods" scheme="https://slothsoft.github.io/project/categories/Mods/"/>
+    <category term="Mods" scheme="https://slothsoft.github.io/categories/Mods/"/>
     
     
-    <category term="c-sharp" scheme="https://slothsoft.github.io/project/tags/c-sharp/"/>
+    <category term="c-sharp" scheme="https://slothsoft.github.io/tags/c-sharp/"/>
     
-    <category term="stardew-valley" scheme="https://slothsoft.github.io/project/tags/stardew-valley/"/>
+    <category term="stardew-valley" scheme="https://slothsoft.github.io/tags/stardew-valley/"/>
     
   </entry>
   
   <entry>
     <title>Game Mods</title>
-    <link href="https://slothsoft.github.io/project/2020-06-13/"/>
-    <id>https://slothsoft.github.io/project/2020-06-13/</id>
+    <link href="https://slothsoft.github.io/2020-06-13/"/>
+    <id>https://slothsoft.github.io/2020-06-13/</id>
     <published>2020-06-13T11:18:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>Whenever I get addicted to a game, I inevitably start wondering if I can create mods for the game.<span id="more"></span> Sometimes it’s possible, sometimes not. So the last couple of months I tried:</p><ul><li><a href="https://github.com/slothsoft/stardew-new-recipes-marker">Stardew Valley New Recipes Marker</a>  - this one works for me but is not good enough to publish due to technical limitations</li><li><a href="https://github.com/slothsoft/scrap-mechanic-scripts">Scrap Mechanic Scripts</a> - not sure how and if you can create mods in Scrap Mechanic, but at least I used these tweaks to make the game more balanced (for me)</li></ul>]]></content>
     
@@ -77,23 +77,23 @@
     
     
     
-    <category term="Mods" scheme="https://slothsoft.github.io/project/categories/Mods/"/>
+    <category term="Mods" scheme="https://slothsoft.github.io/categories/Mods/"/>
     
     
-    <category term="c-sharp" scheme="https://slothsoft.github.io/project/tags/c-sharp/"/>
+    <category term="c-sharp" scheme="https://slothsoft.github.io/tags/c-sharp/"/>
     
-    <category term="stardew-valley" scheme="https://slothsoft.github.io/project/tags/stardew-valley/"/>
+    <category term="stardew-valley" scheme="https://slothsoft.github.io/tags/stardew-valley/"/>
     
-    <category term="scrap-mechanic" scheme="https://slothsoft.github.io/project/tags/scrap-mechanic/"/>
+    <category term="scrap-mechanic" scheme="https://slothsoft.github.io/tags/scrap-mechanic/"/>
     
   </entry>
   
   <entry>
     <title>MP4 Spliterator</title>
-    <link href="https://slothsoft.github.io/project/2020-02-29/"/>
-    <id>https://slothsoft.github.io/project/2020-02-29/</id>
+    <link href="https://slothsoft.github.io/2020-02-29/"/>
+    <id>https://slothsoft.github.io/2020-02-29/</id>
     <published>2020-02-29T11:07:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>I created a really simple application based on the <a href="https://github.com/slothsoft/example-eclipse-application">Eclipse Example Application</a> that is able to split MP4 Videos at their chapter markers. </p><span id="more"></span> <p>While the application itself is small (and maybe only useful for me and my friends), I tried to create it as professionally as possible, so it has:</p><ul><li>a <a href="https://slothsoft.github.io/mp4-spliterator/">user manual</a></li><li>a <a href="https://github.com/slothsoft/mp4-spliterator/wiki">developer guide</a></li><li>a <a href="https://github.com/slothsoft/mp4-spliterator/wiki/Test-Plan">test plan</a></li><li>tests of all necessary phases (unit, integration, acceptance)</li><li>a <a href="https://www.travis-ci.com/slothsoft/mp4-spliterator">CI server</a></li></ul>]]></content>
     
@@ -102,23 +102,23 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="example" scheme="https://slothsoft.github.io/project/tags/example/"/>
+    <category term="example" scheme="https://slothsoft.github.io/tags/example/"/>
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="eclipse-rcp" scheme="https://slothsoft.github.io/project/tags/eclipse-rcp/"/>
+    <category term="eclipse-rcp" scheme="https://slothsoft.github.io/tags/eclipse-rcp/"/>
     
   </entry>
   
   <entry>
     <title>Example Eclipse Application</title>
-    <link href="https://slothsoft.github.io/project/2020-01-07/"/>
-    <id>https://slothsoft.github.io/project/2020-01-07/</id>
+    <link href="https://slothsoft.github.io/2020-01-07/"/>
+    <id>https://slothsoft.github.io/2020-01-07/</id>
     <published>2020-01-07T21:07:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>While there seem to be a couple of projects that use Eclipse as a framework to deploy applications, there are very little that use actual target platforms for some reason. Most want you to download and install a custom Eclipse just to deploy a specific snapshot of their application (example: <a href="https://github.com/dbeaver/dbeaver/wiki/Develop-in-Eclipse">DBeaver</a>).</p><span id="more"></span> <p>I personally want to have a nice, reproducable build that uses the same code in my IDE as while packaging JARs, so I created an example application using a target platform file: <a href="https://github.com/slothsoft/example-eclipse-application">example-eclipse-application</a> </p><p>I even managed to use plain Maven dependencies (even if they’re not OSGi bundles) in that reactor! </p><p>(This showed a couple of bugs with the Random and Charts Frameworks, but I guess that’s life.  <code>¯\_(ツ)_/¯</code>)</p>]]></content>
     
@@ -127,23 +127,23 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="example" scheme="https://slothsoft.github.io/project/tags/example/"/>
+    <category term="example" scheme="https://slothsoft.github.io/tags/example/"/>
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="eclipse-rcp" scheme="https://slothsoft.github.io/project/tags/eclipse-rcp/"/>
+    <category term="eclipse-rcp" scheme="https://slothsoft.github.io/tags/eclipse-rcp/"/>
     
   </entry>
   
   <entry>
     <title>Slothsoft Charts API</title>
-    <link href="https://slothsoft.github.io/project/2020-01-03/"/>
-    <id>https://slothsoft.github.io/project/2020-01-03/</id>
+    <link href="https://slothsoft.github.io/2020-01-03/"/>
+    <id>https://slothsoft.github.io/2020-01-03/</id>
     <published>2020-01-03T20:12:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>Over the holidays I had a couple of hours and started a Java project to displays charts. The end goal is to display electropherogram, but it’s going to be a long bumpy road until I get there.</p><span id="more"></span> <p>I’m really proud of what I did however, so check out the <a href="https://github.com/slothsoft/charts">GitHub Repository</a>. Some of the awesome stuff I’m actually proud of is the <a href="https://slothsoft.github.io/charts/">JavaDoc</a>, the <a href="https://slothsoft.github.io/charts/coverage/">Code Coverage</a> and the <a href="https://github.com/slothsoft/charts/wiki">Wiki</a>.</p><p>Right now the API can display charts like these:</p><p><img src="https://raw.githubusercontent.com/wiki/slothsoft/charts/chart-examples/linechart-swt.png" alt="linechart"><br><img src="https://raw.githubusercontent.com/wiki/slothsoft/charts/chart-examples/piechart-swt.png" alt="piechart"><br><img src="https://github.com/slothsoft/charts/wiki/chart-examples/barchart-swt.png" alt="barchart"></p>]]></content>
     
@@ -152,21 +152,21 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="charts" scheme="https://slothsoft.github.io/project/tags/charts/"/>
+    <category term="charts" scheme="https://slothsoft.github.io/tags/charts/"/>
     
   </entry>
   
   <entry>
     <title>Web Development</title>
-    <link href="https://slothsoft.github.io/project/2019-09-19/"/>
-    <id>https://slothsoft.github.io/project/2019-09-19/</id>
+    <link href="https://slothsoft.github.io/2019-09-19/"/>
+    <id>https://slothsoft.github.io/2019-09-19/</id>
     <published>2019-09-19T20:07:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>A lot happened the last couple months, I just forgot to mention it. </p><span id="more"></span> <p>I started dabbling with web stuff. JavaScript, HTML, NodeJS, … all that good stuff. The most shocking thing I learned is that nobody uses JavaScript professionally. Some might create professional (looking) websites, but nobody uses it professionally. Not even my own company. </p><p>For my very first projects I created some bots. Shmotbots to be exact. If you want to know what that is, you need to check out the <a href="https://github.com/slothsoft/discord-shmotbot">Discord Shmotbot</a>  and &#x2F; or the <a href="https://github.com/slothsoft/slack-shmotbot">Slack Shmotbot</a>.</p><p>Then I tried setting up a professional environment. That’s how I learned that nobody does it. You can see my process in the <a href="https://github.com/slothsoft/example-javascript-website">JavaScript example</a>. Spoiler: In the end it worked nicely. I’m pretty proud.</p><p>Afterwards I was ready to tackle some <a href="https://github.com/slothsoft/exercises-javascript">programming exercises</a>. I plan to give some of these to my trainees at work.</p><p>Finally I created my first npm module <a href="https://github.com/slothsoft/qunit-reporter">qunit-reporter</a>, which surprisingly is a module to generate reports from QUnit.  </p><p>So I kept bussy. I learned a lot. I really hate JavaScript. But I like having webapps that run everywhere instead of whatever Java is doing right now, so I think I’ll manage. Someday. Maybe.</p>]]></content>
     
@@ -175,25 +175,25 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="javascript" scheme="https://slothsoft.github.io/project/tags/javascript/"/>
+    <category term="javascript" scheme="https://slothsoft.github.io/tags/javascript/"/>
     
-    <category term="npm" scheme="https://slothsoft.github.io/project/tags/npm/"/>
+    <category term="npm" scheme="https://slothsoft.github.io/tags/npm/"/>
     
-    <category term="qunit-reporter" scheme="https://slothsoft.github.io/project/tags/qunit-reporter/"/>
+    <category term="qunit-reporter" scheme="https://slothsoft.github.io/tags/qunit-reporter/"/>
     
-    <category term="shmotbot" scheme="https://slothsoft.github.io/project/tags/shmotbot/"/>
+    <category term="shmotbot" scheme="https://slothsoft.github.io/tags/shmotbot/"/>
     
   </entry>
   
   <entry>
     <title>Maven PHP Update</title>
-    <link href="https://slothsoft.github.io/project/2019-03-30/"/>
-    <id>https://slothsoft.github.io/project/2019-03-30/</id>
+    <link href="https://slothsoft.github.io/2019-03-30/"/>
+    <id>https://slothsoft.github.io/2019-03-30/</id>
     <published>2019-03-30T10:38:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>Short update, because I’m still working on it (even though I  now believe I’ve taken on more than I can chew).</p><span id="more"></span> <p>The <a href="https://github.com/slothsoft/maven-php-plugin">maven-php-plugin</a> builds nicely. And I’m on the documentation. However it doesn’t work yet. Which means I need to fix the tests (probably). Which means I need to upload the PHP phars somewhere. Which means… </p><p>In short: there is still so much to do. And I have no idea how much.</p>]]></content>
     
@@ -202,25 +202,25 @@
     
     
     
-    <category term="PHP Maven" scheme="https://slothsoft.github.io/project/categories/PHP-Maven/"/>
+    <category term="PHP Maven" scheme="https://slothsoft.github.io/categories/PHP-Maven/"/>
     
     
-    <category term="maven" scheme="https://slothsoft.github.io/project/tags/maven/"/>
+    <category term="maven" scheme="https://slothsoft.github.io/tags/maven/"/>
     
-    <category term="maven-php-plugin" scheme="https://slothsoft.github.io/project/tags/maven-php-plugin/"/>
+    <category term="maven-php-plugin" scheme="https://slothsoft.github.io/tags/maven-php-plugin/"/>
     
-    <category term="php" scheme="https://slothsoft.github.io/project/tags/php/"/>
+    <category term="php" scheme="https://slothsoft.github.io/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>New Project and GitHub is Awesome</title>
-    <link href="https://slothsoft.github.io/project/2019-03-16/"/>
-    <id>https://slothsoft.github.io/project/2019-03-16/</id>
+    <link href="https://slothsoft.github.io/2019-03-16/"/>
+    <id>https://slothsoft.github.io/2019-03-16/</id>
     <published>2019-03-16T19:46:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
-    <content type="html"><![CDATA[<p>I don’t know if I’m taking on too much here, but I’m trying to get <a href="https://github.com/php-maven/maven-php-plugin">maven-php-plugin</a> to work again (because I want it for my <a href="https://github.com/slothsoft/wordpress-github-repositories">WordPress plug-in</a>. This is the GitHub repository: <a href="https://github.com/slothsoft/maven-php-plugin">maven-php-plugin</a></p><p>Just in a couple of days I found a lot of awesome GitHub features. <a href="https://github.com/users/slothsoft/projects/1">Projects were one</a>. </p><span id="more"></span> <p>Tasks are another one. They are added to issues and appear on the issue overview like this:</p><p><img src="/project/2019-03-16/review-modules.png" alt="review-modules"></p><p>And a third (and maybe the greatest one) is the Travis integration:</p><p><img src="/project/2019-03-16/travis-integration.png" alt="travis-integration"></p><p>Not only does the issue show all its commits, it shows which commits broke the build (and after which the build still worked). Awesome for debugging! I love it. ❤</p><p>The last two features can be viewed on <a href="https://github.com/slothsoft/maven-php-plugin/issues/5">issue #5</a>, if you are interested. </p>]]></content>
+    <content type="html"><![CDATA[<p>I don’t know if I’m taking on too much here, but I’m trying to get <a href="https://github.com/php-maven/maven-php-plugin">maven-php-plugin</a> to work again (because I want it for my <a href="https://github.com/slothsoft/wordpress-github-repositories">WordPress plug-in</a>. This is the GitHub repository: <a href="https://github.com/slothsoft/maven-php-plugin">maven-php-plugin</a></p><p>Just in a couple of days I found a lot of awesome GitHub features. <a href="https://github.com/users/slothsoft/projects/1">Projects were one</a>. </p><span id="more"></span> <p>Tasks are another one. They are added to issues and appear on the issue overview like this:</p><p><img src="/2019-03-16/review-modules.png" alt="review-modules"></p><p>And a third (and maybe the greatest one) is the Travis integration:</p><p><img src="/2019-03-16/travis-integration.png" alt="travis-integration"></p><p>Not only does the issue show all its commits, it shows which commits broke the build (and after which the build still worked). Awesome for debugging! I love it. ❤</p><p>The last two features can be viewed on <a href="https://github.com/slothsoft/maven-php-plugin/issues/5">issue #5</a>, if you are interested. </p>]]></content>
     
     
     <summary type="html">&lt;p&gt;I don’t know if I’m taking on too much here, but I’m trying to get &lt;a href=&quot;https://github.com/php-maven/maven-php-plugin&quot;&gt;maven-php-plugin&lt;/a&gt; to work again (because I want it for my &lt;a href=&quot;https://github.com/slothsoft/wordpress-github-repositories&quot;&gt;WordPress plug-in&lt;/a&gt;. This is the GitHub repository: &lt;a href=&quot;https://github.com/slothsoft/maven-php-plugin&quot;&gt;maven-php-plugin&lt;/a&gt;&lt;/p&gt;
@@ -228,25 +228,25 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="github" scheme="https://slothsoft.github.io/project/tags/github/"/>
+    <category term="github" scheme="https://slothsoft.github.io/tags/github/"/>
     
-    <category term="features" scheme="https://slothsoft.github.io/project/tags/features/"/>
+    <category term="features" scheme="https://slothsoft.github.io/tags/features/"/>
     
-    <category term="i❤it" scheme="https://slothsoft.github.io/project/tags/i%E2%9D%A4it/"/>
+    <category term="i❤it" scheme="https://slothsoft.github.io/tags/i%E2%9D%A4it/"/>
     
-    <category term="maven-php-plugin" scheme="https://slothsoft.github.io/project/tags/maven-php-plugin/"/>
+    <category term="maven-php-plugin" scheme="https://slothsoft.github.io/tags/maven-php-plugin/"/>
     
   </entry>
   
   <entry>
     <title>The One With WordPress</title>
-    <link href="https://slothsoft.github.io/project/2019-03-11/"/>
-    <id>https://slothsoft.github.io/project/2019-03-11/</id>
+    <link href="https://slothsoft.github.io/2019-03-11/"/>
+    <id>https://slothsoft.github.io/2019-03-11/</id>
     <published>2019-03-11T19:19:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>So I got bored and decided I want to see if I can create a plug-in for WordPress (this page previously ran on WordPress). So I did. <span id="more"></span> It was pretty easy actually. So I tried to get it to WordPress’s release repository. Same. So…</p><ul><li><a href="https://github.com/slothsoft/wordpress-github-repositories">GitHub Repository</a></li><li><a href="https://wordpress.org/plugins/list-github-repositories/">WordPress Plug-in</a></li></ul>]]></content>
     
@@ -255,23 +255,23 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
     
-    <category term="github" scheme="https://slothsoft.github.io/project/tags/github/"/>
+    <category term="github" scheme="https://slothsoft.github.io/tags/github/"/>
     
-    <category term="plugin" scheme="https://slothsoft.github.io/project/tags/plugin/"/>
+    <category term="plugin" scheme="https://slothsoft.github.io/tags/plugin/"/>
     
-    <category term="wordpress" scheme="https://slothsoft.github.io/project/tags/wordpress/"/>
+    <category term="wordpress" scheme="https://slothsoft.github.io/tags/wordpress/"/>
     
   </entry>
   
   <entry>
     <title>The One With So Much Work</title>
-    <link href="https://slothsoft.github.io/project/2019-03-06/"/>
-    <id>https://slothsoft.github.io/project/2019-03-06/</id>
+    <link href="https://slothsoft.github.io/2019-03-06/"/>
+    <id>https://slothsoft.github.io/2019-03-06/</id>
     <published>2019-03-06T21:44:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>I hate JavaFX now. In the past I liked it, because I liked the design and everything about it. Now with Java 11 it’s so ridiculous hard to build an application, that I’ll just stop doing it. However… I updated the JavaFX &#x2F; Maven Example:</p><ul><li><a href="https://github.com/slothsoft/example-javafx-maven">GitHub Repository</a></li></ul><span id="more"></span> <p>I think the only fun part here is that the branches for Java 7 and Java 8 are still present. But that’s just me.</p><p><img src="https://raw.githubusercontent.com/slothsoft/example-javafx-maven/master/readme/screenshot.png" alt="Screenshot"></p>]]></content>
     
@@ -283,25 +283,25 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="example" scheme="https://slothsoft.github.io/project/tags/example/"/>
+    <category term="example" scheme="https://slothsoft.github.io/tags/example/"/>
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="javafx" scheme="https://slothsoft.github.io/project/tags/javafx/"/>
+    <category term="javafx" scheme="https://slothsoft.github.io/tags/javafx/"/>
     
-    <category term="maven" scheme="https://slothsoft.github.io/project/tags/maven/"/>
+    <category term="maven" scheme="https://slothsoft.github.io/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>The One With the Trashcan</title>
-    <link href="https://slothsoft.github.io/project/2019-03-05/"/>
-    <id>https://slothsoft.github.io/project/2019-03-05/</id>
+    <link href="https://slothsoft.github.io/2019-03-05/"/>
+    <id>https://slothsoft.github.io/2019-03-05/</id>
     <published>2019-03-05T20:34:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>Before all this started, I had an Eclipse repository with 3 (or so) plug-ins. I hated most of them. And even with that few plug-ins I learned why it’s a good idea to have one repository per plug-in: issues and commits where scrambled, and the lifecycle did not work at all. </p><span id="more"></span> <p>So I cleaned it all up. Deleted all but one plug-in. Made it work even better with Tycho. And separated the update site. </p><p>Problem is: I did not get Tycho to release the plug-in, even though it should work. (-&gt; <a href="https://github.com/slothsoft/eclipse-builder-pattern/issues/15">Issue #15</a>) On the side of the update side there are no categories anymore. (-&gt; <a href="https://github.com/slothsoft/eclipse-update-site/issues/2">Issue #2</a>)  Both was deemed “good enough” for now, since even the internet can’t help my any more.</p><p>So, here it is:</p><ul><li><a href="https://github.com/slothsoft/eclipse-builder-pattern">GitHub Repository</a></li><li><a href="https://github.com/slothsoft/eclipse-update-site">Update Site</a></li></ul><p><img src="https://raw.githubusercontent.com/slothsoft/eclipse-builder-pattern/master/readme/dialog.png" alt="Screenshot"></p>]]></content>
     
@@ -310,23 +310,23 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="eclipse-rcp" scheme="https://slothsoft.github.io/project/tags/eclipse-rcp/"/>
+    <category term="eclipse-rcp" scheme="https://slothsoft.github.io/tags/eclipse-rcp/"/>
     
-    <category term="eclipse-plugin" scheme="https://slothsoft.github.io/project/tags/eclipse-plugin/"/>
+    <category term="eclipse-plugin" scheme="https://slothsoft.github.io/tags/eclipse-plugin/"/>
     
   </entry>
   
   <entry>
     <title>The One With the Robots</title>
-    <link href="https://slothsoft.github.io/project/2019-03-04/"/>
-    <id>https://slothsoft.github.io/project/2019-03-04/</id>
+    <link href="https://slothsoft.github.io/2019-03-04/"/>
+    <id>https://slothsoft.github.io/2019-03-04/</id>
     <published>2019-03-04T22:04:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>Well I’m up to my neck in the next project(s), but the update for today is: I made a beautiful repository for the cute little robots:</p><p><img src="https://raw.githubusercontent.com/slothsoft/challenge-robo-rumble/master/readme/screenshot.png" alt="Screenshot"></p><span id="more"></span> <p>So if you want to make a friend for the robots, you are free to use this challenge:</p><ul><li><a href="https://github.com/slothsoft/challenge-robo-rumble">GitHub Repository</a></li></ul>]]></content>
     
@@ -336,23 +336,23 @@
     
     
     
-    <category term="General" scheme="https://slothsoft.github.io/project/categories/General/"/>
+    <category term="General" scheme="https://slothsoft.github.io/categories/General/"/>
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/General/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/General/Spring-Cleaning/"/>
     
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="challenge" scheme="https://slothsoft.github.io/project/tags/challenge/"/>
+    <category term="challenge" scheme="https://slothsoft.github.io/tags/challenge/"/>
     
   </entry>
   
   <entry>
     <title>The One With the Many Red Squares</title>
-    <link href="https://slothsoft.github.io/project/2019-03-03/"/>
-    <id>https://slothsoft.github.io/project/2019-03-03/</id>
+    <link href="https://slothsoft.github.io/2019-03-03/"/>
+    <id>https://slothsoft.github.io/2019-03-03/</id>
     <published>2019-03-03T20:59:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>So after fixing the blueprint up, I thought I’d fix one of the challenges based on that as well. Turns out the Tribes Challenge was in pretty good shape already. So that was easy:</p><ul><li><a href="https://github.com/slothsoft/challenge-tribes">GitHub Repository</a></li></ul><span id="more"></span> <p>It’s really relaxing to just watch the Romans beat the Wolves over and over, so I suggest to take a look at the challenge. A screenshot isn’t really as satisfying, but here you have it:</p><p><img src="https://raw.githubusercontent.com/slothsoft/challenge-tribes/master/readme/screenshot.png" alt="Screenshot"></p>]]></content>
     
@@ -364,23 +364,23 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="challenge" scheme="https://slothsoft.github.io/project/tags/challenge/"/>
+    <category term="challenge" scheme="https://slothsoft.github.io/tags/challenge/"/>
     
-    <category term="archetype" scheme="https://slothsoft.github.io/project/tags/archetype/"/>
+    <category term="archetype" scheme="https://slothsoft.github.io/tags/archetype/"/>
     
   </entry>
   
   <entry>
     <title>The One With the Red Square</title>
-    <link href="https://slothsoft.github.io/project/2019-03-02/"/>
-    <id>https://slothsoft.github.io/project/2019-03-02/</id>
+    <link href="https://slothsoft.github.io/2019-03-02/"/>
+    <id>https://slothsoft.github.io/2019-03-02/</id>
     <published>2019-03-02T18:56:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/slothsoft/framework-challenger/master/readme/mapbased.png" alt="Screenshot"></p><p>So after trying  a couple of things back and forth I decided that my blueprint for coding challenges should have been a Maven archetype. Which was really hard to achieve, and I had worked with archetypes in the past. </p><span id="more"></span> <p>But now it’s done, I have two projects in Maven Central, which feels kinda nice.</p><ul><li><a href="https://github.com/slothsoft/framework-challenger">GitHub Repository</a></li></ul><p>(Also, yes that GUI is incredible ugly. But there is no supported GUI framework in Java any longer, so you can pry Swing from my cold dead hands.)</p>]]></content>
     
@@ -390,23 +390,23 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="challenge" scheme="https://slothsoft.github.io/project/tags/challenge/"/>
+    <category term="challenge" scheme="https://slothsoft.github.io/tags/challenge/"/>
     
-    <category term="archetype" scheme="https://slothsoft.github.io/project/tags/archetype/"/>
+    <category term="archetype" scheme="https://slothsoft.github.io/tags/archetype/"/>
     
   </entry>
   
   <entry>
     <title>The One With the Blocks</title>
-    <link href="https://slothsoft.github.io/project/2019-02-27/"/>
-    <id>https://slothsoft.github.io/project/2019-02-27/</id>
+    <link href="https://slothsoft.github.io/2019-02-27/"/>
+    <id>https://slothsoft.github.io/2019-02-27/</id>
     <published>2019-02-27T21:14:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>So today I didn’t do much (for my GitHub projects at least), but enough to “finish” my Tetris challenge. Take a look!</p><ul><li><a href="https://github.com/slothsoft/challenge-tetris">GitHub Repository</a></li></ul><span id="more"></span> <p><img src="https://github.com/slothsoft/tetris-challenge/wiki/tetris_overview.png" alt="Screenshot"></p>]]></content>
     
@@ -418,23 +418,23 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="challenge" scheme="https://slothsoft.github.io/project/tags/challenge/"/>
+    <category term="challenge" scheme="https://slothsoft.github.io/tags/challenge/"/>
     
-    <category term="tetris" scheme="https://slothsoft.github.io/project/tags/tetris/"/>
+    <category term="tetris" scheme="https://slothsoft.github.io/tags/tetris/"/>
     
   </entry>
   
   <entry>
     <title>I Wanted To Go to Bed Early...</title>
-    <link href="https://slothsoft.github.io/project/2019-02-26-23/"/>
-    <id>https://slothsoft.github.io/project/2019-02-26-23/</id>
+    <link href="https://slothsoft.github.io/2019-02-26-23/"/>
+    <id>https://slothsoft.github.io/2019-02-26-23/</id>
     <published>2019-02-26T22:16:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>…but my washing machine was still washing, so I quickly put the lit on another one of the little examples I have on GitHub:</p><ul><li><a href="https://github.com/slothsoft/example-jdbc/">GitHub Repository</a></li></ul><span id="more"></span> <p>Also I played around with projects on GitHub, so I can monitor the progress on the <a href="https://github.com/users/slothsoft/projects/1">spring cleaning</a>.</p>]]></content>
     
@@ -446,23 +446,23 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="example" scheme="https://slothsoft.github.io/project/tags/example/"/>
+    <category term="example" scheme="https://slothsoft.github.io/tags/example/"/>
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="jdbc" scheme="https://slothsoft.github.io/project/tags/jdbc/"/>
+    <category term="jdbc" scheme="https://slothsoft.github.io/tags/jdbc/"/>
     
   </entry>
   
   <entry>
     <title>Maven Central</title>
-    <link href="https://slothsoft.github.io/project/2019-02-26-21/"/>
-    <id>https://slothsoft.github.io/project/2019-02-26-21/</id>
+    <link href="https://slothsoft.github.io/2019-02-26-21/"/>
+    <id>https://slothsoft.github.io/2019-02-26-21/</id>
     <published>2019-02-26T20:19:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://search.maven.org/search?q=g:%22de.slothsoft.random%22%20AND%20a:%22random%22"><img src="https://img.shields.io/maven-central/v/de.slothsoft.random/random.svg?label=Maven%20Central" alt="Maven Central"></a></p><p>You know what this is? It’s my badge for getting my first project into Maven Central. <a href="https://github.com/slothsoft/framework-random">This one</a>, but it doesn’t really matter. What matters that it took way too much nerve to get this far. I feel like I’ve lost 20 years of my life. So I’m gonna wear my  badge with pride.</p><span id="more"></span> ]]></content>
     
@@ -472,50 +472,50 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="framework" scheme="https://slothsoft.github.io/project/tags/framework/"/>
+    <category term="framework" scheme="https://slothsoft.github.io/tags/framework/"/>
     
-    <category term="random" scheme="https://slothsoft.github.io/project/tags/random/"/>
+    <category term="random" scheme="https://slothsoft.github.io/tags/random/"/>
     
-    <category term="maven" scheme="https://slothsoft.github.io/project/tags/maven/"/>
+    <category term="maven" scheme="https://slothsoft.github.io/tags/maven/"/>
     
   </entry>
   
   <entry>
     <title>The One With the Class and the Exception</title>
-    <link href="https://slothsoft.github.io/project/2019-02-24/"/>
-    <id>https://slothsoft.github.io/project/2019-02-24/</id>
+    <link href="https://slothsoft.github.io/2019-02-24/"/>
+    <id>https://slothsoft.github.io/2019-02-24/</id>
     <published>2019-02-24T13:40:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/slothsoft/example-gaugebar/master/readme/100percent.png" alt="Screenshot"></p><p>After not being able to deploy <a href="/project/2019-02-23/" title="Off to A Slow Start">that other project</a> my survival instincts kicked in and I started working on the “easy” repository. </p><p>﻿<span id="more"></span></p><p>I created a Java 7 tag of the project (even thought maybe that should be a branch), updated to Java 11 und moved the tutorial and its images to GitHub, so I can maintain both the code and the documentation at the same time. </p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/slothsoft/example-gaugebar/master/readme/100percent.png" alt="Screenshot"></p><p>After not being able to deploy <a href="/2019-02-23/" title="Off to A Slow Start">that other project</a> my survival instincts kicked in and I started working on the “easy” repository. </p><p>﻿<span id="more"></span></p><p>I created a Java 7 tag of the project (even thought maybe that should be a branch), updated to Java 11 und moved the tutorial and its images to GitHub, so I can maintain both the code and the documentation at the same time. </p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/slothsoft/example-gaugebar/master/readme/100percent.png&quot; alt=&quot;Screenshot&quot;&gt;&lt;/p&gt;
-&lt;p&gt;After not being able to deploy &lt;a href=&quot;/project/2019-02-23/&quot; title=&quot;Off to A Slow Start&quot;&gt;that other project&lt;/a&gt; my survival instincts kicked in and I started working on the “easy” repository. &lt;/p&gt;
+&lt;p&gt;After not being able to deploy &lt;a href=&quot;/2019-02-23/&quot; title=&quot;Off to A Slow Start&quot;&gt;that other project&lt;/a&gt; my survival instincts kicked in and I started working on the “easy” repository. &lt;/p&gt;
 &lt;p&gt;</summary>
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="example" scheme="https://slothsoft.github.io/project/tags/example/"/>
+    <category term="example" scheme="https://slothsoft.github.io/tags/example/"/>
     
-    <category term="java" scheme="https://slothsoft.github.io/project/tags/java/"/>
+    <category term="java" scheme="https://slothsoft.github.io/tags/java/"/>
     
-    <category term="javafx" scheme="https://slothsoft.github.io/project/tags/javafx/"/>
+    <category term="javafx" scheme="https://slothsoft.github.io/tags/javafx/"/>
     
   </entry>
   
   <entry>
     <title>Off to A Slow Start</title>
-    <link href="https://slothsoft.github.io/project/2019-02-23/"/>
-    <id>https://slothsoft.github.io/project/2019-02-23/</id>
+    <link href="https://slothsoft.github.io/2019-02-23/"/>
+    <id>https://slothsoft.github.io/2019-02-23/</id>
     <published>2019-02-23T16:20:00.000Z</published>
-    <updated>2022-12-09T11:21:00.965Z</updated>
+    <updated>2022-12-09T12:01:09.802Z</updated>
     
     <content type="html"><![CDATA[<p>“Start slow”, I told myself. “First fix a small, easy repository. Maybe the one with the class and the exception?”</p><span id="more"></span><p>Ten minutes later I had started a enormous refactoring on one project that didn’t really need one. I even tackled the problem of “deploying to Maven Central”.  Now I’ve finished the project and am ready to deploy… but for some reason I’m still getting exceptions. All clues point to the fact that I’m not at fault. </p><p>So with that being said, you can already take a look, it’s hosted on GitHub: <a href="https://github.com/slothsoft/framework-random">https://github.com/slothsoft/framework-random</a>﻿</p>]]></content>
     
@@ -524,12 +524,12 @@
     
     
     
-    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/project/categories/Spring-Cleaning/"/>
+    <category term="Spring Cleaning" scheme="https://slothsoft.github.io/categories/Spring-Cleaning/"/>
     
     
-    <category term="framework" scheme="https://slothsoft.github.io/project/tags/framework/"/>
+    <category term="framework" scheme="https://slothsoft.github.io/tags/framework/"/>
     
-    <category term="random" scheme="https://slothsoft.github.io/project/tags/random/"/>
+    <category term="random" scheme="https://slothsoft.github.io/tags/random/"/>
     
   </entry>
   
