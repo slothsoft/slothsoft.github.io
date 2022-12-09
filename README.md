@@ -20,7 +20,3 @@ hexo new post <2023-01-30>
 - [Permalinks](https://hexo.io/docs/permalinks.html)
 - [GitHub Pages](https://hexo.io/docs/github-pages.html)
 
-
-## TODO
-
-- localize "prev_post" and "next_post"

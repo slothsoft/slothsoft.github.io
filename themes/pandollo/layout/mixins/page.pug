@@ -12,7 +12,7 @@ mixin articlesByType()
                     ul.archive__list
                         li.archive__list__item
                             span.archive__list__item__text.metadata
-                                != full_date(post.date, 'YYYY/MM/DD')
+                                != full_date(post.date, __('date_format'))
                             a.archive__list__item__link(href=url_for(post.path) title=post.from)
                                 != post.title
             - })
@@ -22,7 +22,7 @@ mixin articlesByType()
                 ul.archive__list
                     li.archive__list__item
                         span.archive__list__item__text.metadata
-                            != full_date(post.date, 'YYYY/MM/DD')
+                            != full_date(post.date, __('date_format'))
                         a.archive__list__item__link(href=url_for(post.path) title=post.from)
                             != post.title
             - })
@@ -43,7 +43,7 @@ mixin articles()
 
 mixin articleInfo(post)
     .post-info
-        != full_date(post.date, 'YYYY/MM/DD')
+        != full_date(post.date, __('date_format'))
         if post.from && (is_home() || is_post())
             a.post-from(href=post.from target="_blank" title=post.from)!= __('translated')
 
