@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7345213-22fb-42eb-a2a6-73e0714f3e03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.slothsoft.github.io.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.slothsoft.github.io.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.slothsoft.github.io.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.slothsoft.github.io.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-02-20.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-02-23.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-02-24.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-02-26-21.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-02-26-23.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-02-27.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-16.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-16/review-modules.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-16/travis-integration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-03-30.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2019-09-19.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020-01-03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020-01-07.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020-02-29.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020-06-13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2022-10-30.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2022-12-01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.landscape.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/.gitkeep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package-lock.json" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2Ifhc3VWRGjGWgIy1K3yParSywi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Steffi\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Steffi\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Steffi\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7345213-22fb-42eb-a2a6-73e0714f3e03" name="Changes" comment="" />
+      <created>1670578620354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670578620354</updated>
+      <workItem from="1670578621841" duration="2298000" />
+      <workItem from="1670580981064" duration="924000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove broken theme">
+      <created>1670579438757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670579438757</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add theme again">
+      <created>1670579561151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670579561151</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add working (???) theme to site">
+      <created>1670580753130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670580753130</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="388c2ace-e08c-4737-af08-6411a26c6179">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="388c2ace-e08c-4737-af08-6411a26c6179" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="remove broken theme" />
+    <MESSAGE value="add theme again" />
+    <MESSAGE value="add working (???) theme to site" />
+    <option name="LAST_COMMIT_MESSAGE" value="add working (???) theme to site" />
+  </component>
+</project>
