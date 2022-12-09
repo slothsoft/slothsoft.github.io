@@ -12,7 +12,7 @@ language: en
 timezone: 'Europe/Berlin'
 
 # URL
-url: https://slothsoft.github.io/project
+url: https://slothsoft.github.io/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
