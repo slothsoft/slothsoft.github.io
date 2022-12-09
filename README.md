@@ -1,4 +1,4 @@
-# Slothsoft Website
+﻿# Slothsoft Website
 
 _Powered by [Hexo](https://hexo.io) and [GitHub Pages](https://pages.github.com/)._
 
@@ -23,5 +23,5 @@ hexo new post <2023-01-30>
 
 ## TODO
 
-- About page
+- About pages
 - localize "prev_post" and "next_post"
