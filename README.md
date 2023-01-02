@@ -13,6 +13,14 @@ Generate new post:
 hexo new post <2023-01-30>
 ```
 
+Then start the server:
+
+```
+hexo server
+```
+
+And visit http://localhost:4000/
+
 
 ### Links
 
